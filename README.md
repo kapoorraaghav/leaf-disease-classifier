@@ -14,7 +14,7 @@ Inference-ready code for predicting disease from a new leaf image
 
 📁 Contents
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-model_training.py — full training, preprocessing, and prediction script
+index.py — full training, preprocessing, and prediction script
 README.md — repository overview and instructions
 Dataset Link - https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 grey-leaf-spot-of-maize-maize-1.jpg - image being used to predict the model's output
